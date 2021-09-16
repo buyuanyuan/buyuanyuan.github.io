@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -764,7 +763,7 @@ a:hover {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: url("C:Userstestuyuanyuan.github.ioimgЀ.jpg");
+  background-image: url("https://niit-soft.oss-cn-hangzhou.aliyuncs.com/banner/banner1.jpg");
   background-size: cover;
 }
 
